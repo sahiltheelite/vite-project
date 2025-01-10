@@ -3,7 +3,7 @@ import React from 'react'
 const Contact = () => {
   console.log("hi github")
   console.log("hello github")
-
+ //urgent fixed
   return (
     
     <div>All Contact
